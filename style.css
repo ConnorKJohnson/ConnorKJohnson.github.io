@@ -61,8 +61,8 @@ main {
 }
 
 .profile {
-    width: 100px;
-    height: 440px;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     border-radius: 50%;
     margin: 20px 0;
